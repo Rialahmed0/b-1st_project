@@ -1,3 +1,6 @@
+/* Header se */
+
+
 .header{
     background-color: #2c3e50;
 }
@@ -23,4 +26,86 @@
     line-height: 65px;
     border-right: 1px solid white;
     text-decoration: none;
+     }
 .primary-menu ul li a:hover{}
+
+ /* Banner section */
+ .banner{
+     background-image: url(./image/photo-1470350576089-539d5a852bf7.jpg);
+     padding: 200px 0;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .banner-text{
+     color: whitesmoke;
+     
+     
+ }
+ .banner-text h1{
+     background-color: rgba(14, 14, 14, 0.425);
+     padding: 0 30px;
+     display: inline-block;
+ }
+ .banner-text h2{
+    background-color: rgba(14, 14, 14, 0.425);
+ }
+ /* About section */
+ .about{
+     background-color: rgb(245, 253, 255);
+ }
+
+
+/* Service section */
+.service{
+    background-color: rgb(245, 245, 245);
+}
+
+
+img{
+    width: 100%;
+}
+.product-right h2{
+font-size: 30px;
+}
+
+.product-right ul{
+    padding-left: 0;
+    list-style: none;
+}
+.product-right ul li{
+    background:rgb(243, 243, 243);
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 5px;
+}
+
+/* Footer section */
+
+.footer{
+    background:#7f8c8d;
+}
+.footer ul{
+}
+.footer ul li {
+    
+    display: inline-block;
+
+}
+.footer ul li a{
+    color: white;
+    margin-left: 15px;
+    line-height: 40px;
+
+}
+.footer p{
+    margin-bottom: 5px;
+    line-height: 40px;
+    
+}
+
+
+
+
+
